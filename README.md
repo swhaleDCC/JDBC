@@ -4,7 +4,7 @@ A Asset Management System Based on Java GUI and MySQL
 基于Java GUI的资产管理系统的设计与实现
 
 
-Assets.zip是一个工程文件，解压后使用NetBeans可以直接打开整个工程运行。
+Assets是一个工程文件，使用NetBeans可以直接打开整个工程运行。
 首先要下载MySQL数据库，下载的时候要记住用户名和密码。
 在NetBeans的服务里面建立数据库连接，在工程的database.properties文件里面把用户名和密码改成你设置的数据库的用户名和密码
 
